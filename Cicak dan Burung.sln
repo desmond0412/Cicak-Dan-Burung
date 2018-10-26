@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{79C51117-9246-D551-A466-F0B758CD3842}") = "Cicak dan Burung", "Assembly-CSharp-firstpass.csproj", "{340328FC-B05B-0262-4C50-A74C0AFF245C}"
+EndProject
+Project("{79C51117-9246-D551-A466-F0B758CD3842}") = "Cicak dan Burung", "Assembly-CSharp.csproj", "{79EB737C-B40C-E22B-033C-0727CA48A6CD}"
+EndProject
+Project("{79C51117-9246-D551-A466-F0B758CD3842}") = "Cicak dan Burung", "Assembly-CSharp-Editor.csproj", "{B4134EE0-45F2-D4C8-4599-32AA25CFE98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340328FC-B05B-0262-4C50-A74C0AFF245C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340328FC-B05B-0262-4C50-A74C0AFF245C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340328FC-B05B-0262-4C50-A74C0AFF245C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340328FC-B05B-0262-4C50-A74C0AFF245C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EB737C-B40C-E22B-033C-0727CA48A6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB737C-B40C-E22B-033C-0727CA48A6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB737C-B40C-E22B-033C-0727CA48A6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB737C-B40C-E22B-033C-0727CA48A6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4134EE0-45F2-D4C8-4599-32AA25CFE98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4134EE0-45F2-D4C8-4599-32AA25CFE98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4134EE0-45F2-D4C8-4599-32AA25CFE98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4134EE0-45F2-D4C8-4599-32AA25CFE98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
